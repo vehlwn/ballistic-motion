@@ -10,10 +10,10 @@ A = (5.7e-3 / 2.0) ** 2 * numpy.pi
 CD = 0.1
 
 # interval of integration
-t_max = 0.5
+t_max = 2.5
 # initial speed
 v_0 = 700
-initial_angle = numpy.deg2rad(0)
+initial_angle = numpy.deg2rad(1)
 # initial height above sea level
 y_0 = 0
 

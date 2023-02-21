@@ -104,3 +104,14 @@ drag force:
 
 ![example 2 trajectory](examples/CD_0.1_t_max_0.5_v0_700_angle_0/trajectory.png)
 ![example 2 abs_v](examples/CD_0.1_t_max_0.5_v0_700_angle_0/abs_v.png)
+
+### CD = 0.1, t_max = 2.5, v_0 = 700, angle = 1 degree
+
+![example 3 trajectory](examples/CD_0.1_t_max_2.5_v0_700_angle_1/trajectory.png)
+![example 3 abs_v](examples/CD_0.1_t_max_2.5_v0_700_angle_1/abs_v.png)
+
+Theoretical values:
+
+- time of flight: 2.49 s;
+- distance: 1744.97 m;
+- maximum height: 7.61 m.
