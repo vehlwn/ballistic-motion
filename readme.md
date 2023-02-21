@@ -97,7 +97,8 @@ values](https://en.wikipedia.org/wiki/Projectile_motion#Displacement) without
 drag force:
 
 - time of flight = $\frac{2 v_0 \sin \theta}{g} \approx  \frac{2 \cdot 10 \cdot 0.707}{9.8} = 1.44$ s;
-- distance at 1.44 s = $\frac{v_0^2}{g} \sin \left( 2 \theta \right) \approx \frac{10^2}{9.8} \cdot 1 = 10.2$ m.
+- distance at 1.44 s = $\frac{v_0^2}{g} \sin \left( 2 \theta \right) \approx \frac{10^2}{9.8} \cdot 1 = 10.2$ m;
+- maximum height = $\frac{v_0^2 \sin^2 \theta}{2g} \approx 2.55$ m.
 
 ### CD = 0.1, t_max = 0.5, v_0 = 700, angle = 0
 
