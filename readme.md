@@ -65,7 +65,7 @@ derivative of displacement $\overrightarrow{s}$:
 
 $$
 \left\\{ \begin{array}{l}
-\frac{d \overrightarrow{s}}{dt} & = & \overrightarrow{s} \\
+\frac{d \overrightarrow{s}}{dt} & = & \overrightarrow{v} \\
 \frac{d \overrightarrow{v}}{dt} & = & \overrightarrow{g} + \frac{k}{m} \overrightarrow{v^2}
 \end{array} \right.
 $$
